@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: SwingBar
+## Notes: Subtle swing timers for main hand, off hand and ranged weapons (bows, guns, crossbows, thrown, wands).
+## Version: 1.0.1
+## SavedVariables: SwingBarDB
+
+Core.lua
+Weapons.lua
+Engine.lua
+Bars.lua
+Options.lua
